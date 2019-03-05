@@ -1,0 +1,1 @@
+This is a basic django application guided by Corey Mc Schafer's tutorial
